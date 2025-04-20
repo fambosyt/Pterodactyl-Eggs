@@ -25,4 +25,4 @@ Du hast ein eigenes Egg, das du teilen möchtest? Gerne! Erstelle einen Pull Req
 
 ## Lizenz
 
-Dieses Projekt steht unter der [MIT Lizenz](LICENSE), sofern nicht anders angegeben.
+Dieses Projekt steht [Ohne Lizenz](LICENSE), sofern nicht anders angegeben.
