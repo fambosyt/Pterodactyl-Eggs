@@ -15,7 +15,7 @@ In diesem Repository findest du Eggs für:
 
 ## Hinweise
 
-- **Keine der hier bereitgestellten Eggs steht in Verbindung mit Pterodactyl oder anderen offiziellen Organisationen.**
+- **Keine der hier bereitgestellten Eggs steht in Verbindung mit Pterodactyl (manche können von Pterodactyl erstellt worden sein) oder anderen offiziellen Organisationen.**
 - Ich bin in keiner Weise mit dem Pterodactyl-Projekt oder den Entwicklern der jeweiligen Software, die in den Eggs verwendet wird, verbunden.
 - Die Nutzung der Eggs erfolgt auf eigene Verantwortung.
 
